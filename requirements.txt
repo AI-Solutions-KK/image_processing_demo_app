@@ -8,3 +8,5 @@ torchvision
 facenet-pytorch
 Pillow
 joblib
+opencv-python-headless
+
