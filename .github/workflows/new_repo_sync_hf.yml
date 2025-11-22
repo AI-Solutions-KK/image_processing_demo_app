@@ -19,11 +19,11 @@ jobs:
         run: |
           curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/huggingface/xet-core/refs/heads/main/git_xet/install.sh | sh
           git xet install
+          git lfs install
           git-xet --version
 
       - name: Push to HuggingFace Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git lfs install
-          git push https://AI-Solutions-KK:$HF_TOKEN@huggingface.co/spaces/AI-Solutions-KK/face_recognition main
+          git push https://AI-Solutions-KK:${HF_TOKEN}@huggingface.co/spaces/AI-Solutions-KK/face_recognition main
