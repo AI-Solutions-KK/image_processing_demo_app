@@ -11,7 +11,7 @@ The system is modular and split into:
 1. **Dataset Repo**: https://huggingface.co/datasets/AI-Solutions-KK/face_recognition_dataset  
 2. **Model Repo**: https://huggingface.co/AI-Solutions-KK/face_recognition  
 3. **App Repo** (UI): https://huggingface.co/spaces/AI-Solutions-KK/face_recognition_model_demo_app  
-   Use if above not worked app_live - https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
+   Use if above not worked LIVE_APP - https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
 ---
 
 ## Project Architecture
@@ -93,8 +93,11 @@ The app:
   - About page  
 
 App Repo (this demo):  1. Streamlit 2. Hugging face
+
 1. Recomanded
+
 **1) https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/**
+   
 **2) https://huggingface.co/spaces/AI-Solutions-KK/face_recognition_model_demo_app**
 
 ---
