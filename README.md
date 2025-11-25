@@ -260,7 +260,7 @@ print("Confidence Score:", prob)
   https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
 
 - **Full Training Code & Documentation**  
-  https://github.com/AI-Solutions-KK/face_recognition_cnn_svm
+  https://github.com/AI-Solutions-KK/face_recognition_model_domain_specific/blob/main/README.md
 
 ---
 
@@ -285,7 +285,7 @@ Then plug into your own app or the provided Streamlit demo.
 
 ## Full Training Code refer Documentation  
 All training, cleaning, model building & evaluation:
-👉 **https://github.com/AI-Solutions-KK/face_recognition_model_domain_specific.git**
+👉 **https://github.com/AI-Solutions-KK/face_recognition_model_domain_specific/blob/main/README.md**
 
 ---
 
