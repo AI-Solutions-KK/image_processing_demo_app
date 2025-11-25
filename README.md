@@ -283,7 +283,7 @@ Then plug into your own app or the provided Streamlit demo.
 **Karan (AI-Solutions-KK)**  
 
 
-## Full Training Code
+## Full Training Code refer Documentation  
 All training, cleaning, model building & evaluation:
 👉 **https://github.com/AI-Solutions-KK/face_recognition_model_domain_specific.git**
 
